@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:32:23	549/549	---MCZ	200	added ('OK')	text/plain	etag:W/%22cacheable:9f31074403b50350f83e2156eee40fd3%22	https://relode.se/robots.txt		(from )
+20:32:25	1327972/1327972	---MCZ	200	added ('OK')	text/html	etag:W/%22cacheable:80df07ea0f84eeca0cceecffa1f275d0%22	https://relode.se/	C:/Users/ComputerWorld/Desktop/https___relode.se_/relode.se/index.html	(from )
+20:33:17	13393/13393	---M-Z	200	added ('OK')	text/javascript	etag:%225aed817b31dbc1bd4da2b3df440d1628%22	https://tools.luckyorange.com/core/lo.js?site-id=8214281e	C:/Users/ComputerWorld/Desktop/https___relode.se_/tools.luckyorange.com/core/lof596.js	(from https://relode.se/)
